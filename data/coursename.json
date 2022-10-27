@@ -1,0 +1,38 @@
+[
+    {
+        "id": "01",
+        "name": "HTML",
+        "img": "",
+        "about": "Be a pro in HTML"
+    },
+    {
+        "id": "02",
+        "name": "CSS",
+        "img": "",
+        "about": "Be a pro in CSS"
+    },
+    {
+        "id": "03",
+        "name": "Java Script",
+        "img": "",
+        "about": "Be a pro in Java Script"
+    },
+    {
+        "id": "04",
+        "name": "React",
+        "img": "",
+        "about": "Be a pro in React"
+    },
+    {
+        "id": "05",
+        "name": "Node.js",
+        "img": "",
+        "about": "Be a pro in Node.js"
+    },
+    {
+        "id": "06",
+        "name": "Full-Stack",
+        "img": "",
+        "about": "Be a pro in Full-Stack"
+    }
+]
