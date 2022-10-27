@@ -11,7 +11,9 @@ app.get('/', (req, res) => {
     res.send('Running')
 })
 
-
+app.get('/coursename', (req, res) => {
+    res.send(coursename)
+})
 
 app.get('/coursename/:id', (req, res) => {
     const id = req.params.id;
